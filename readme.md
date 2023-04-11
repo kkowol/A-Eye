@@ -10,7 +10,6 @@ There are 3 ways to work with this repo.
 ![output](images/flowchart.png)
 
 ## Structure
-This repo provides 3 
 
 ```bash
 ├── models          # usable models are placed here
